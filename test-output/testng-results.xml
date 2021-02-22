@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="12691" started-at="2021-02-21T11:16:40Z" finished-at="2021-02-21T11:16:52Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="12691" started-at="2021-02-21T11:16:40Z" finished-at="2021-02-21T11:16:52Z">
+      <class name="test.TESTaddnewcomputerPage">
+        <test-method status="PASS" signature="Addcomputerhomepage()[pri:0, instance:test.TESTaddnewcomputerPage@53f65459]" name="Addcomputerhomepage" duration-ms="4139" started-at="2021-02-21T11:16:44Z" finished-at="2021-02-21T11:16:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Addcomputerhomepage -->
+      </class> <!-- test.TESTaddnewcomputerPage -->
+      <class name="test.TESThomepage">
+        <test-method status="PASS" signature="homepage()[pri:0, instance:test.TESThomepage@4d95d2a2]" name="homepage" duration-ms="4741" started-at="2021-02-21T11:16:40Z" finished-at="2021-02-21T11:16:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homepage -->
+      </class> <!-- test.TESThomepage -->
+      <class name="test.TESTcancelbutton">
+        <test-method status="PASS" signature="Cancelpage()[pri:0, instance:test.TESTcancelbutton@3b088d51]" name="Cancelpage" duration-ms="3768" started-at="2021-02-21T11:16:48Z" finished-at="2021-02-21T11:16:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Cancelpage -->
+      </class> <!-- test.TESTcancelbutton -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
